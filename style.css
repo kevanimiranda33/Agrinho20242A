@@ -24,3 +24,31 @@ padding: 20px;
     text-transform: uppercase;
     margin: 30px;
 }
+.sobre{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    }
+    
+    .sobre_texto{
+    
+        padding: 40px;
+    }
+    
+    .elementos{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 20px;
+        padding: 20px;
+    }
+    .elementos__div{
+        text-align: center;
+    }
+    .elementos__imagem{
+        width: 300px;
+        height: 300px;
+        border-radius: 10px;
+    
